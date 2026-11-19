@@ -148,10 +148,10 @@ I'm open to collaborating on mobile applications, frontend projects, backend sys
 
 <p align="center">
     <a href="mailto:ktal4015@gmail.com">
-      <img src="https://img.shields.io/badge/Email-agamyradowazat04%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-ktal4015%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="tel:+99361463365">
-      <img src="https://img.shields.io/badge/Phone-+993%2065%2035%2059%2055-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+      <img src="https://img.shields.io/badge/Phone-+993%2061%2046%2033%2065-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
     </a>
   </p>
 <a href="gmail:ktal4015@gmail.com">
