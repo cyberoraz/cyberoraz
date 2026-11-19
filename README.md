@@ -150,10 +150,8 @@ I'm open to collaborating on mobile applications, frontend projects, backend sys
 <img src="https://img.shields.io/badge/GitHub-CyberOraz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="gmail:ktal4015@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="tel:+99361463365">
-<img src="https://img.shields.io/badge/Phone-Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
 </a>
 </div>
 
