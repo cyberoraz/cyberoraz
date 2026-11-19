@@ -16,10 +16,11 @@
 <br/>
 
 <a href="https://github.com/cyberoraz">
-<img src="https://komarev.com/ghpvc/?username=cyberoraz&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=cyberoraz&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" alt="Profile Views" />
 </a>
+
 <a href="https://github.com/cyberoraz?tab=followers">
-<img src="https://img.shields.io/github/followers/cyberoraz?style=for-the-badge&color=7C3AED&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/cyberoraz?style=for-the-badge&color=7C3AED&label=FOLLOWERS" alt="Followers" />
 </a>
 
 </div>
@@ -34,7 +35,12 @@
 const oraz = {
     name: "Orazgeldi Charymyradov",
     username: "cyberoraz",
-    role: ["Full-Stack Developer", "Mobile Developer"],
+
+    role: [
+        "Full-Stack Developer",
+        "Mobile Developer"
+    ],
+
     university: "Magtymguly Turkmen State University",
     location: "Turkmenistan",
 
@@ -71,14 +77,14 @@ const oraz = {
 
 <div align="center">
 
-<a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" width="48" /></a>
-<a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" width="48" /></a>
-<a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" width="48" /></a>
-<a href="https://nuxt.com/"><img src="https://skillicons.dev/icons?i=nuxtjs" width="48" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="48" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="48" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" /></a>
+<a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" width="48" alt="Flutter" /></a>
+<a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" width="48" alt="Dart" /></a>
+<a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" width="48" alt="Vue.js" /></a>
+<a href="https://nuxt.com/"><img src="https://skillicons.dev/icons?i=nuxtjs" width="48" alt="Nuxt.js" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3" /></a>
 
 </div>
 
@@ -86,13 +92,12 @@ const oraz = {
 
 <div align="center">
 
-<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="48" /></a>
-<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="48" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="48" /></a>
-<a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" width="48" /></a>
-<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="48" /></a>
-<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="48" /></a>
-<a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" width="48" /></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" /></a>
+<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="48" alt="Express.js" /></a>
+<a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase" /></a>
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" /></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB" /></a>
+<a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" width="48" alt="Go" /></a>
 
 </div>
 
@@ -100,12 +105,12 @@ const oraz = {
 
 <div align="center">
 
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" /></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48" /></a>
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="48" /></a>
-<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="48" /></a>
-<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="48" /></a>
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="48" /></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" /></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" /></a>
+<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman" /></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" /></a>
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" /></a>
 
 </div>
 
@@ -117,11 +122,13 @@ const oraz = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cyberoraz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=7C3AED&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cyberoraz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=7C3AED&text_color=FFFFFF" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberoraz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberoraz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=FFFFFF" alt="Top Languages" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=cyberoraz&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=7C3AED&currStreakLabel=06B6D4" />
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=cyberoraz&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=7C3AED&currStreakLabel=06B6D4" alt="GitHub Streak" />
 
 </div>
 
@@ -133,7 +140,7 @@ const oraz = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberoraz&bg_color=0D1117&color=06B6D4&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberoraz&bg_color=0D1117&color=06B6D4&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 
 </div>
 
@@ -148,18 +155,23 @@ I'm open to collaborating on mobile applications, frontend projects, backend sys
 <div align="center">
 
 <a href="https://github.com/cyberoraz">
-<img src="https://img.shields.io/badge/GitHub-CyberOraz-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-CyberOraz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="mailto:ktal4015@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="tel:+99361463365">
-<img src="https://img.shields.io/badge/Phone-Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/Phone-Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
 </a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
 </div>
+
+---
+
+<!-- ================= FOOTER ================= -->
 
 <div align="center">
 
