@@ -15,14 +15,6 @@
 
 <br/>
 
-<a href="https://github.com/cyberoraz">
-<img src="https://komarev.com/ghpvc/?username=cyberoraz&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" alt="Profile Views" />
-</a>
-
-<a href="https://github.com/cyberoraz?tab=followers">
-<img src="https://img.shields.io/github/followers/cyberoraz?style=for-the-badge&color=7C3AED&label=FOLLOWERS" alt="Followers" />
-</a>
-
 </div>
 
 ---
