@@ -46,7 +46,7 @@ const oraz = {
     ],
 
     currentlyLearning: [
-        "Advanced Flutter",
+        "Intermediate Flutter",
         "Clean Architecture",
         "System Design"
     ],
@@ -151,15 +151,12 @@ I'm open to collaborating on mobile applications, frontend projects, backend sys
 <img src="https://img.shields.io/badge/GitHub-cyberoraz-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:ktal4015@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="tel:+993XXXXXXXX">
+<a href="tel:+99361463365">
 <img src="https://img.shields.io/badge/Phone-Contact_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
