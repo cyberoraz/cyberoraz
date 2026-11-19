@@ -110,35 +110,7 @@ const oraz = {
 
 <!-- ================= GITHUB STATS ================= -->
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cyberoraz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=7C3AED&text_color=FFFFFF" alt="GitHub Stats" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberoraz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=FFFFFF" alt="Top Languages" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=cyberoraz&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=7C3AED&currStreakLabel=06B6D4" alt="GitHub Streak" />
-
-</div>
-
----
-
-<!-- ================= ACTIVITY GRAPH ================= -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberoraz&bg_color=0D1117&color=06B6D4&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-
-</div>
-
----
-
-<!-- ================= COLLABORATION ================= -->
 
 ## 🤝 Let's Connect
 
