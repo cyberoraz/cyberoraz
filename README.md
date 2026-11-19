@@ -149,16 +149,12 @@ I'm open to collaborating on mobile applications, frontend projects, backend sys
 <a href="https://github.com/cyberoraz">
 <img src="https://img.shields.io/badge/GitHub-CyberOraz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="mailto:ktal4015@gmail.com">
+<a href="gmail:ktal4015@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="tel:+99361463365">
 <img src="https://img.shields.io/badge/Phone-Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
 </div>
 
 ---
